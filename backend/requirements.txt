@@ -5,3 +5,6 @@ scikit-learn
 networkx
 numpy
 pytest
+fastapi
+uvicorn[standard]
+python-multipart
