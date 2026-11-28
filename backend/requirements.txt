@@ -1,0 +1,7 @@
+pypdf
+python-docx
+nltk
+scikit-learn
+networkx
+numpy
+pytest
